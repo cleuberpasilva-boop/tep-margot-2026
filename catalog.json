@@ -1,13 +1,14 @@
 {
-  "version": 2,
+  "version": 3,
   "specialties": [
     {
       "id": "endocrinologia",
       "title": "Endocrinologia",
+      "color": "#2E7D78",
       "lessons": [
         {"number":1,"title":"Crescimento, baixa estatura e síndrome de Turner","date":"2026-09-17","duration":"22:26","audio":"TEP_2026_Endocrino_01_Crescimento_Baixa_Estatura_Turner.m4a"},
-        {"number":2,"title":"Tireoide, puberdade e suprarrenal","date":"","duration":"","audio":"audio/endocrinologia/02-tireoide-puberdade-suprarrenal.m4a","comingSoon":true},
-        {"number":3,"title":"Diabetes tipo 1 e cetoacidose diabética","date":"","duration":"","audio":"audio/endocrinologia/03-diabetes-cetoacidose.m4a","comingSoon":true}
+        {"number":2,"title":"Tireoide, puberdade e suprarrenal","date":"2026-09-17","duration":"21:43","audio":"TEP_2026_Endocrino_02_Tireoide_Puberdade_Suprarrenal.m4a"},
+        {"number":3,"title":"Diabetes tipo 1 e cetoacidose diabética","date":"2026-09-17","duration":"26:07","audio":"TEP_2026_Endocrino_03_Diabetes_Cetoacidose.m4a"}
       ]
     }
   ]
