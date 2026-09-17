@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "specialties": [
     {
       "id": "endocrinologia",
@@ -17,8 +17,8 @@
       "color": "#C87941",
       "lessons": [
         {"number":1,"title":"Aleitamento materno — técnica, dificuldades e contraindicações","date":"2026-09-17","duration":"23:46","audio":"TEP_2026_Puericultura_01_Aleitamento_Materno.m4a"},
-        {"number":2,"title":"Crescimento, ganho ponderal e alimentação complementar","comingSoon":true},
-        {"number":3,"title":"Puericultura prática — desenvolvimento, prevenção e decisões de banca","comingSoon":true}
+        {"number":2,"title":"Crescimento, ganho ponderal e alimentação complementar","date":"2026-09-17","duration":"16:01","audio":"TEP_2026_Puericultura_02_Crescimento_Alimentacao_Complementar.m4a"},
+        {"number":3,"title":"Puericultura prática — desenvolvimento, prevenção e decisões de banca","date":"2026-09-17","duration":"23:38","audio":"TEP_2026_Puericultura_03_Desenvolvimento_Prevencao.m4a"}
       ]
     }
   ]
