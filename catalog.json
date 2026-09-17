@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "specialties": [
     {
       "id": "endocrinologia",
@@ -9,6 +9,16 @@
         {"number":1,"title":"Crescimento, baixa estatura e síndrome de Turner","date":"2026-09-17","duration":"22:26","audio":"TEP_2026_Endocrino_01_Crescimento_Baixa_Estatura_Turner.m4a"},
         {"number":2,"title":"Tireoide, puberdade e suprarrenal","date":"2026-09-17","duration":"21:43","audio":"TEP_2026_Endocrino_02_Tireoide_Puberdade_Suprarrenal.m4a"},
         {"number":3,"title":"Diabetes tipo 1 e cetoacidose diabética","date":"2026-09-17","duration":"26:07","audio":"TEP_2026_Endocrino_03_Diabetes_Cetoacidose.m4a"}
+      ]
+    },
+    {
+      "id": "puericultura-aleitamento",
+      "title": "Puericultura, Aleitamento e Alimentação",
+      "color": "#C87941",
+      "lessons": [
+        {"number":1,"title":"Aleitamento materno — técnica, dificuldades e contraindicações","date":"2026-09-17","duration":"23:46","audio":"TEP_2026_Puericultura_01_Aleitamento_Materno.m4a"},
+        {"number":2,"title":"Crescimento, ganho ponderal e alimentação complementar","comingSoon":true},
+        {"number":3,"title":"Puericultura prática — desenvolvimento, prevenção e decisões de banca","comingSoon":true}
       ]
     }
   ]
