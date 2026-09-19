@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "specialties": [
     {
       "id": "endocrinologia",
@@ -54,6 +54,34 @@
           "date": "2026-09-17",
           "duration": "23:38",
           "audio": "TEP_2026_Puericultura_03_Desenvolvimento_Prevencao (1).m4a"
+        }
+      ]
+    },
+    {
+      "id": "infectologia-imunizacoes",
+      "title": "Infectologia e Imunizações",
+      "color": "#7B5EA7",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Febre, exantemas, arboviroses e infecções comuns",
+          "date": "2026-09-19",
+          "duration": "25:14",
+          "audio": "TEP_2026_Infectologia_01_Febre_Exantemas_Arboviroses.m4a"
+        },
+        {
+          "number": 2,
+          "title": "Infecções graves, meningites, antimicrobianos e imunizações",
+          "date": "2026-09-19",
+          "duration": "29:55",
+          "audio": "TEP_2026_Infectologia_02_Infeccoes_Graves_Meningites_Imunizacoes.m4a"
+        },
+        {
+          "number": 3,
+          "title": "Infecções congênitas, transmissão vertical e situações especiais",
+          "date": "2026-09-19",
+          "duration": "28:26",
+          "audio": "TEP_2026_Infectologia_03_Infeccoes_Congenitas_Transmissao_Vertical.m4a"
         }
       ]
     }
