@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "specialties": [
     {
       "id": "endocrinologia",
@@ -82,6 +82,34 @@
           "date": "2026-09-19",
           "duration": "28:26",
           "audio": "TEP_2026_Infectologia_03_Infeccoes_Congenitas_Transmissao_Vertical.m4a"
+        }
+      ]
+    },
+    {
+      "id": "neonatologia",
+      "title": "Neonatologia",
+      "color": "#4F78A8",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Sala de parto, reanimação neonatal e cuidados imediatos",
+          "date": "2026-09-19",
+          "duration": "22:29",
+          "audio": "TEP_2026_Neonatologia_01_Reanimacao_Cuidados_Imediatos (1).m4a"
+        },
+        {
+          "number": 2,
+          "title": "Icterícia, prematuridade, distúrbios metabólicos e alimentação do RN",
+          "date": "2026-09-19",
+          "duration": "26:53",
+          "audio": "TEP_2026_Neonatologia_02_Ictericia_Prematuridade_Metabolicos.m4a"
+        },
+        {
+          "number": 3,
+          "title": "Sepse neonatal, desconforto respiratório e patologias do período neonatal",
+          "date": "2026-09-19",
+          "duration": "27:59",
+          "audio": "TEP_2026_Neonatologia_03_Sepse_Respiratorio_Patologias_Neonatais (1).m4a"
         }
       ]
     }
