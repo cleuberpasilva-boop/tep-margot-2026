@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "specialties": [
     {
       "id": "endocrinologia",
@@ -124,6 +124,48 @@
           "date": "2026-09-20",
           "duration": "26:22",
           "audio": "TEP_2026_Urgencias_01_Choque_Sepse_Pediatrica.m4a"
+        }
+      ]
+    },
+    {
+      "id": "adolescencia-bioetica",
+      "title": "Adolescência, Bioética e Paliativos",
+      "color": "#8A6F8F",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Sigilo, cuidados paliativos e saturnismo",
+          "date": "2026-09-20",
+          "duration": "16:32",
+          "audio": "TEP_2026_Bioetica_01_Sigilo_Paliativos_Saturnismo.m4a"
+        }
+      ]
+    },
+    {
+      "id": "pneumologia",
+      "title": "Pneumologia",
+      "color": "#5C8D89",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Asma, pneumonias, ORL e corpos estranhos",
+          "date": "2026-09-20",
+          "duration": "18:30",
+          "audio": "TEP_2026_Pneumologia_01_Asma_Pneumonias_ORL_Corpos_Estranhos.m4a"
+        }
+      ]
+    },
+    {
+      "id": "cardiologia",
+      "title": "Cardiologia",
+      "color": "#A65D57",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Coarctação, síncope, WPW e Marfan",
+          "date": "2026-09-20",
+          "duration": "29:59",
+          "audio": "TEP_2026_Cardiologia_01_Coarctacao_Sincope_WPW_Marfan.m4a"
         }
       ]
     }
