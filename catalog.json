@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "specialties": [
     {
       "id": "endocrinologia",
@@ -110,6 +110,20 @@
           "date": "2026-09-19",
           "duration": "27:59",
           "audio": "TEP_2026_Neonatologia_03_Sepse_Respiratorio_Patologias_Neonatais (1).m4a"
+        }
+      ]
+    },
+    {
+      "id": "urgencias-emergencias",
+      "title": "Urgências e Emergências",
+      "color": "#C95D63",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Choque e Sepse Pediátrica",
+          "date": "2026-09-20",
+          "duration": "26:22",
+          "audio": "TEP_2026_Urgencias_01_Choque_Sepse_Pediatrica.m4a"
         }
       ]
     }
