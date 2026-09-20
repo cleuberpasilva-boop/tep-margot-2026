@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "specialties": [
     {
       "id": "endocrinologia",
@@ -166,6 +166,34 @@
           "date": "2026-09-20",
           "duration": "29:59",
           "audio": "TEP_2026_Cardiologia_01_Coarctacao_Sincope_WPW_Marfan.m4a"
+        }
+      ]
+    },
+    {
+      "id": "banca-tep",
+      "title": "🧠 Banca TEP — Raciocínio & Pegadinhas",
+      "color": "#6B5B95",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Decisão clínica e lógica da banca",
+          "date": "2026-09-20",
+          "duration": "18:02",
+          "audio": "TEP_2026_Banca_01_Logica_da_Banca.m4a"
+        },
+        {
+          "number": 2,
+          "title": "Lógica, contexto e pegadinhas do TEP",
+          "date": "2026-09-20",
+          "duration": "29:42",
+          "audio": "TEP_2026_Banca_02_Logica_e_Pegadinhas.m4a"
+        },
+        {
+          "number": 3,
+          "title": "Raciocínio clínico nos casos do TEP",
+          "date": "2026-09-20",
+          "duration": "18:10",
+          "audio": "TEP_2026_Banca_03_Raciocinio_Clinico_Casos.m4a"
         }
       ]
     }
